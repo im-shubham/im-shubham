@@ -5,7 +5,7 @@
 <img align="right" width="400" src="https://user-images.githubusercontent.com/85172635/132107373-f2467126-02cf-4031-8793-d9497b0dafe0.jpg">
 
 - 📫 How to reach me shubhamgithub@outlook.com
-<br>
+
 - ⚡ Fun fact **I'm Astro..🚀..pHiLe 🚀**
 
 ### Blogs posts
