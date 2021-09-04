@@ -2,6 +2,7 @@
 <h3 align="center">I'm a Self-taught Programmer who loves to solve real world problems using code :)</h3>
 
 - 📝 I regularly write articles on [https://sparkingdude.com](https://sparkingdude.com)
+<img align="right" width="400" src="https://user-images.githubusercontent.com/85172635/132107373-f2467126-02cf-4031-8793-d9497b0dafe0.jpg">
 
 - 📫 How to reach me **shubhamgithub@outlook.com**
 
