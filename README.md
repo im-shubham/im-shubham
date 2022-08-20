@@ -6,8 +6,6 @@
 
 - 📫 How to reach me shubhamgithub@outlook.com
 
-- ⚡ Fun fact **I'm Astro..🚀..pHiLe 🚀**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
