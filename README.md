@@ -1,16 +1,14 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Shubham Vig — Data Analyst, Business Intelligence, and Data and Analytics. Power BI, SQL, Python, Excel, DAX." width="100%">
+  <img src="assets/banner.png" alt="Shubham Vig — Data Analyst, Business Intelligence, and Data Analytics. Power BI, SQL, Python, Excel, DAX." width="100%">
 </p>
 
 # Shubham Vig
 
-**Data Analyst**
-
-Business Intelligence | Data & Analytics
+**Data Analyst | Business Intelligence | Data Analytics**
 
 Power BI · SQL · Python · Excel · DAX
 
-Executive Analyst II at Tata Electronics in Bengaluru. I work with procurement, production, inventory and supply chain data, and turn it into Power BI dashboards, SQL and Python analysis, and reports teams can act on.
+I turn procurement, production and inventory data into dashboards and analysis people can act on.
 
 <p>
   <a href="https://shubhamvig.netlify.app/"><img src="assets/btn-portfolio.png" alt="Portfolio" height="40"></a>
@@ -26,9 +24,23 @@ Executive Analyst II at Tata Electronics in Bengaluru. I work with procurement, 
 
 ## About
 
-I sit between the business question and the enterprise data. At Tata Electronics (July 2024 – Present) that means procurement, production, inventory and supply chain: find the pattern that matters, then turn it into a dashboard, a model or a recommendation.
+Data analyst working across procurement, production, inventory and supply chain in electronics manufacturing. I clean and model operational data, then deliver Power BI dashboards, SQL and Python analysis, and reports that do not have to be rebuilt by hand.
 
-From SAP S/4HANA tables to Power BI, the work is practical. I clean and model operational data, track production KPIs such as productivity, OEE, yield, downtime and quality, and look at supplier performance, purchase price variance and lead time. Recurring reporting is automated with Python, Excel VBA and Power Query — work that cut manual reporting effort by 60%.
+## Experience
+
+**Executive Analyst II** · Tata Electronics Pvt. Ltd.  
+July 2024 – Present · Bengaluru, India
+
+- Production dashboards for productivity, OEE, yield, downtime and quality
+- SAP S/4HANA analysis of supplier performance, purchase price variance and lead time
+- Inventory work on consumption, stockouts, turnover and tool utilization
+- Recurring reports automated with Python, Excel VBA and Power Query
+
+## Analytics impact
+
+- Reporting automation cut manual reporting effort by 60%.
+- Procurement intelligence: 18% shorter purchasing cycle time and ₹2.4 Cr in savings identified.
+- Toolroom inventory: 92% stock visibility, taken up by 3+ departments.
 
 ## Core skills
 
@@ -60,49 +72,35 @@ SAP S/4HANA · Procurement analytics · Supply chain analytics · Inventory anal
 **Automation**  
 Python automation · Streamlit · Tkinter · SQLite · Git · GitHub
 
-## What I do
+## Professional work
 
-**Business intelligence**  
-Interactive Power BI dashboards, DAX, data modeling and KPI reporting for leadership — including production metrics such as productivity, OEE, yield, downtime and quality.
+### Procurement Intelligence Platform
 
-**Data analytics**  
-SQL and Python for cleaning, exploratory analysis and KPI work. Pandas and NumPy where the analysis needs to go past the spreadsheet.
+<img src="assets/projects/procurement.jpg" alt="Procurement intelligence dashboard for spend, supplier performance and purchasing cycle time." width="100%">
 
-**Procurement and inventory**  
-SAP S/4HANA analysis of supplier performance, purchase price variance and lead time, plus consumption, stockout exposure, inventory turnover and tool utilization.
-
-**Automation and reporting**  
-Python, Excel VBA and Power Query for recurring business reports, with Streamlit and SQLite where a small internal tool is the right interface.
-
-## Featured projects
-
-These case studies are on the portfolio. They are not published as public GitHub repositories, so there is no repository link to attach.
-
-### Enterprise Procurement Intelligence Platform
-
-<img src="assets/projects/procurement.jpg" alt="Supplier analytics dashboard covering spend, supplier performance and purchasing trends." width="100%">
-
-Procurement was spread across SAP extracts and Excel reports, so supplier performance, purchasing trends and cycle time were hard to see together. This brings spend, supplier and procure-to-pay monitoring into one place, and flags where cost can come out.
+Fragmented SAP and Excel reports hid supplier performance, purchasing trends and cycle time. One view now covers spend, suppliers and the procure-to-pay cycle, and shows where cost can come out.
 
 `Python` `SQL` `Streamlit` `Power BI` `Scikit-learn` `SAP`
 
 [View case study](https://shubhamvig.netlify.app/)
 
-### Enterprise Toolroom Inventory Management System
+### Toolroom Inventory Management
 
-<img src="assets/projects/toolroom.jpg" alt="Case study cover for enterprise toolroom inventory management." width="100%">
+<img src="assets/projects/toolroom.jpg" alt="Toolroom inventory management case study: material movement, stock visibility and replenishment reporting." width="100%">
 
-Separate Excel trackers were duplicating entries and hiding real consumption. A single inventory record covers material movement, audit history and low stock, with Power BI used for replenishment reporting.
+Separate Excel trackers duplicated entries and hid real consumption. One inventory record covers material movement, audit history and low stock, with Power BI for replenishment.
 
 `Python` `SQLite` `Tkinter` `Pandas` `Power BI` `Git`
 
 [View case study](https://shubhamvig.netlify.app/)
 
-### Executive Sales & Profitability Intelligence
+## Portfolio projects
 
-<img src="assets/projects/sales.jpg" alt="Executive dashboard of revenue, margin, product, customer and regional performance." width="100%">
+### Sales & Profitability Intelligence
 
-Personal analytics project. Sales, finance and regional reports sit apart, so it is hard to tell whether growth is profitable or where margin is leaking. One executive view ties revenue, margin, product, customer and region together.
+<img src="assets/projects/sales.jpg" alt="Sales and profitability dashboard for revenue, margin, product, customer and region." width="100%">
+
+Sales, finance and regional reports sit apart, so it is hard to see whether growth is profitable or where margin leaks. One view ties revenue, margin, product, customer and region together.
 
 `SQL` `Python` `Power BI`
 
@@ -110,9 +108,9 @@ Personal analytics project. Sales, finance and regional reports sit apart, so it
 
 ### E-Commerce Customer Intelligence
 
-<img src="assets/projects/ecommerce.jpg" alt="Customer intelligence dashboard for revenue, segments, cohorts and retention." width="100%">
+<img src="assets/projects/ecommerce.jpg" alt="Customer intelligence dashboard for segments, cohorts, retention and lifetime value." width="100%">
 
-Personal analytics project. Revenue can grow without showing which customers drive it, who is drifting, or where retention spend will pay back. The analysis covers behavior, RFM segments, cohorts and lifetime value.
+Revenue can rise without showing who drives it, who is leaving, or where retention spend pays back. The analysis covers behavior, RFM segments, cohorts and lifetime value.
 
 `SQL` `Python` `Power BI`
 
@@ -120,9 +118,9 @@ Personal analytics project. Revenue can grow without showing which customers dri
 
 ### Workforce Intelligence
 
-<img src="assets/projects/workforce.jpg" alt="Workforce dashboard for attrition, tenure risk and turnover impact." width="100%">
+<img src="assets/projects/workforce.jpg" alt="Workforce intelligence dashboard for attrition risk, tenure and turnover cost." width="100%">
 
-Personal analytics project. Attrition usually shows up after people have left. This segments who is at risk, where turnover concentrates, and what that turnover costs.
+Attrition usually shows up after people have left. This segments who is at risk, where turnover concentrates, and what that turnover costs.
 
 `SQL` `Python` `Power BI`
 
@@ -130,30 +128,15 @@ Personal analytics project. Attrition usually shows up after people have left. T
 
 ## How I work
 
-1. Business problem
-2. Collect
-3. Clean
-4. SQL and Python
-5. Data modeling
-6. Power BI
-7. Insights
-8. Recommendations
-
-Start from the decision that needs to change. Clean and model before the dashboard. A Power BI view only counts if someone uses it.
+Business problem → Data → SQL / Python → Modeling → Power BI → Insights
 
 ## Current focus
 
-Advanced Power BI and DAX · Python analytics and reporting automation · SAP S/4HANA procurement analytics · Data modeling for KPI reporting
-
-## GitHub
-
-Analytics delivery for this role lives in dashboards, SAP analysis and internal Python tools, so it does not all appear as public commits. Older repositories here are mostly earlier software projects.
-
-[github.com/im-shubham](https://github.com/im-shubham)
+Advanced Power BI and DAX · Python reporting automation · SAP S/4HANA procurement analytics · Data modeling for KPI reporting
 
 ## Let's connect
 
-Open to conversations on data analytics, business intelligence, dashboard development and reporting.
+Open to conversations on data analytics, business intelligence and reporting.
 
 <p>
   <a href="https://shubhamvig.netlify.app/"><img src="assets/btn-portfolio.png" alt="Portfolio — shubhamvig.netlify.app" height="40"></a>
