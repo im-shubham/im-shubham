@@ -4,9 +4,13 @@
 
 # Shubham Vig
 
-**Data Analyst | Business Intelligence | Data & Analytics**
+**Data Analyst**
 
-Executive Analyst II at Tata Electronics in Bengaluru. I work with procurement, production, inventory and supply chain data — building Power BI dashboards, SQL and Python analysis, and automated reporting that teams can use to make decisions.
+Business Intelligence | Data & Analytics
+
+Power BI · SQL · Python · Excel · DAX
+
+Executive Analyst II at Tata Electronics in Bengaluru. I work with procurement, production, inventory and supply chain data, and turn it into Power BI dashboards, SQL and Python analysis, and reports teams can act on.
 
 <p>
   <a href="https://shubhamvig.netlify.app/"><img src="assets/btn-portfolio.png" alt="Portfolio" height="40"></a>
@@ -72,69 +76,70 @@ Python, Excel VBA and Power Query for recurring business reports, with Streamlit
 
 ## Featured projects
 
-Case studies from [shubhamvig.netlify.app](https://shubhamvig.netlify.app/). These are analytics and BI projects, not the older software repositories on this GitHub account.
+These case studies are on the portfolio. They are not published as public GitHub repositories, so there is no repository link to attach.
 
 ### Enterprise Procurement Intelligence Platform
 
-<img src="assets/projects/procurement.jpg" alt="Supplier analytics dashboard for the Enterprise Procurement Intelligence Platform, built around SAP procurement data." width="100%">
+<img src="assets/projects/procurement.jpg" alt="Supplier analytics dashboard covering spend, supplier performance and purchasing trends." width="100%">
 
-An enterprise procurement intelligence platform that consolidates SAP procurement data, automates KPI monitoring and surfaces cost-saving opportunities across the procure-to-pay cycle.
+Procurement was spread across SAP extracts and Excel reports, so supplier performance, purchasing trends and cycle time were hard to see together. This brings spend, supplier and procure-to-pay monitoring into one place, and flags where cost can come out.
 
 `Python` `SQL` `Streamlit` `Power BI` `Scikit-learn` `SAP`
 
-[View on portfolio](https://shubhamvig.netlify.app/)
+[View case study](https://shubhamvig.netlify.app/)
 
 ### Enterprise Toolroom Inventory Management System
 
-<img src="assets/projects/toolroom.jpg" alt="Case study cover for the Enterprise Toolroom Inventory Management System. Python, SQLite, Pandas and Power BI." width="100%">
+<img src="assets/projects/toolroom.jpg" alt="Case study cover for enterprise toolroom inventory management." width="100%">
 
-A centralized inventory system for toolroom operations — material movement, audit history, low-stock visibility and Power BI reporting — in place of fragmented Excel trackers.
+Separate Excel trackers were duplicating entries and hiding real consumption. A single inventory record covers material movement, audit history and low stock, with Power BI used for replenishment reporting.
 
 `Python` `SQLite` `Tkinter` `Pandas` `Power BI` `Git`
 
-[View on portfolio](https://shubhamvig.netlify.app/)
+[View case study](https://shubhamvig.netlify.app/)
 
 ### Executive Sales & Profitability Intelligence
 
-<img src="assets/projects/sales.jpg" alt="Executive sales and profitability dashboard with revenue, margin, regional and product views." width="100%">
+<img src="assets/projects/sales.jpg" alt="Executive dashboard of revenue, margin, product, customer and regional performance." width="100%">
 
-Personal analytics project. An executive BI view of revenue, profitability, product and customer performance, and regional growth.
+Personal analytics project. Sales, finance and regional reports sit apart, so it is hard to tell whether growth is profitable or where margin is leaking. One executive view ties revenue, margin, product, customer and region together.
 
 `SQL` `Python` `Power BI`
 
-[View on portfolio](https://shubhamvig.netlify.app/)
+[View case study](https://shubhamvig.netlify.app/)
 
 ### E-Commerce Customer Intelligence
 
-<img src="assets/projects/ecommerce.jpg" alt="E-commerce customer intelligence dashboard covering revenue, RFM segments, cohorts and retention." width="100%">
+<img src="assets/projects/ecommerce.jpg" alt="Customer intelligence dashboard for revenue, segments, cohorts and retention." width="100%">
 
-Personal analytics project. Customer analytics across behavior, RFM segmentation, cohorts, retention, lifetime value and revenue.
+Personal analytics project. Revenue can grow without showing which customers drive it, who is drifting, or where retention spend will pay back. The analysis covers behavior, RFM segments, cohorts and lifetime value.
 
 `SQL` `Python` `Power BI`
 
-[View on portfolio](https://shubhamvig.netlify.app/)
+[View case study](https://shubhamvig.netlify.app/)
 
 ### Workforce Intelligence
 
-<img src="assets/projects/workforce.jpg" alt="Workforce intelligence dashboard covering attrition, tenure, department and retention risk." width="100%">
+<img src="assets/projects/workforce.jpg" alt="Workforce dashboard for attrition, tenure risk and turnover impact." width="100%">
 
-Personal analytics project. Workforce analytics for attrition, high-risk segments and the cost of turnover.
+Personal analytics project. Attrition usually shows up after people have left. This segments who is at risk, where turnover concentrates, and what that turnover costs.
 
 `SQL` `Python` `Power BI`
 
-[View on portfolio](https://shubhamvig.netlify.app/)
+[View case study](https://shubhamvig.netlify.app/)
 
 ## How I work
 
-<div align="center">
+1. Business problem
+2. Collect
+3. Clean
+4. SQL and Python
+5. Data modeling
+6. Power BI
+7. Insights
+8. Recommendations
 
-**01** Business problem &nbsp;→&nbsp; **02** Collect &nbsp;→&nbsp; **03** Clean &nbsp;→&nbsp; **04** SQL & Python
-
-**05** Data modeling &nbsp;→&nbsp; **06** Power BI &nbsp;→&nbsp; **07** Insights &nbsp;→&nbsp; **08** Recommendations
-
-</div>
-
-Business problem, then the data. Cleaning and SQL or Python before the model. Power BI for the view leadership actually opens. Insights only count if they change a decision.
+Start from the decision that needs to change. Clean and model before the dashboard. A Power BI view only counts if someone uses it.
 
 ## Current focus
 
